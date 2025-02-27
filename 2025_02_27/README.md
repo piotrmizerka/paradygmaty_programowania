@@ -1,0 +1,1 @@
+Zaimplementuj w jezyku C program stwierdzajacy, czy dana liczba jest pierwsza przy pomocy testu [Millera-Rabina](j:\Desktop\paradygmaty\paradygmaty_programowania\README.md). Zrob to w dwoch programach - jednym w paradygmacie imperatywnym preceduralnym, a drugim w imperatywnym strukturalnym.
