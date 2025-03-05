@@ -1,0 +1,1 @@
+Zaimplementuj w jezyku Python oraz Java program stwierdzajacy, czy dana liczba jest pierwsza przy pomocy testu [Millera-Rabina](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test). Zrob to w paradygmacie obiektowym. Dodatkowo, uwzględnij tym razem możliwość sprawdzania bardzo duzych liczb (100 cyfr). Mozesz korzystac tym razem z zewnetrznych bibliotek.
