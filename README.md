@@ -11,11 +11,9 @@ Na zaliczenia wybierzemy termin naszych ostatnich dwóch zajęć.
 Więcej info o warunkach zaliczenia:
 * użycie różnych paradygmatów programowania
 * główna funkcjonalność musi być zaimplementowana w Prologu, albo Haskellu
-* z grubsza informacje o punktacji będą wyglądać jak w pliku oceny.xls
 
 Przykład:
 * aplikacja todo, która sprawdza w Prologu, czy Haskellu, czy podobne zadanie nie zostało już może wprowadzone (nie chodzi o porównanie dwóch ciągów znaków)
-* prostsza(!) wersja aplikacji, która pozwala na grę w Jeopardy (-> https://en.wikipedia.org/wiki/IBM_Watson)
 * gra w Go, albo warcaby napisana w Prologu
 
 2. Istnieje możliwość podwyższenia o 0.5 oceny z ćwiczeń poprzez aktywność na zajęciach. Aby tak sie stało, trzeba uzyskać co najmniej 12 punktów za aktywność, przy czym na jednych zajęciach mozna uzyskać maksymalnie 2 takie punkty (1 za częściowo wykonane zadanie z zajęć, 2 za kompletnie).
