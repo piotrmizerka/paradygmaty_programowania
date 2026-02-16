@@ -20,5 +20,6 @@ Przykład:
 
 3. Dopuszczalne maksymalnie 3 nieusprawiedliwione nieobecności.
 
-### Kurs przygotowany w dużej mierze na podstawie: https://git.wmi.amu.edu.pl/ahypki/wmi-parprog/. Dodatkowo, w generowaniu poleceń wspierałem się istotnie AI (głównie CHat GPT).
+### Kurs przygotowany w dużej mierze na podstawie: https://git.wmi.amu.edu.pl/ahypki/wmi-parprog/. Dodatkowo wspierałem się istotnie AI (generowanie poleceń, implementacja przykładowych rozwiązań; głównie Chat GPT).
+
 
