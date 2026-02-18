@@ -16,10 +16,10 @@ Przykład:
 * aplikacja todo, która sprawdza w Prologu, czy Haskellu, czy podobne zadanie nie zostało już może wprowadzone
 * gra w Go, albo warcaby napisana w Prologu
 
-2. Istnieje możliwość podwyższenia o 0.5 oceny z ćwiczeń poprzez aktywność na zajęciach. Aby tak sie stało, trzeba uzyskać co najmniej 12 punktów za aktywność, przy czym na jednych zajęciach mozna uzyskać maksymalnie 2 takie punkty (1 za częściowo wykonane zadanie z zajęć, 2 za kompletnie).
+2. Istnieje możliwość podwyższenia o 0.5 oceny z ćwiczeń poprzez aktywność na zajęciach. Aby tak sie stało, trzeba uzyskać co najmniej 14 punktów za aktywność, przy czym na jednych zajęciach mozna uzyskać maksymalnie 2 takie punkty (1 za częściowo wykonane zadanie z zajęć, 2 za kompletnie).
 
 3. Dopuszczalne maksymalnie 3 nieusprawiedliwione nieobecności.
 
-### Kurs przygotowany w dużej mierze na podstawie: https://git.wmi.amu.edu.pl/ahypki/wmi-parprog/. Dodatkowo wspierałem się istotnie AI (generowanie poleceń, implementacja przykładowych rozwiązań; głównie Chat GPT).
+### Kurs skopiowany w dużej mierze z: https://git.wmi.amu.edu.pl/ahypki/wmi-parprog/. Dodatkowo wspierałem się istotnie AI (generowanie poleceń, implementacja przykładowych rozwiązań; głównie Chat GPT).
 
 

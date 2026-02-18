@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <h1>To-Do List</h1>
+    <input type="text" id="task-input" placeholder="Enter a task">
+    <button id="add-btn">Add Task</button>
+    <ul id="todo-list"></ul>
+
+    <script>
+        $(document).ready(function() {
+            // Add task functionality
+            $('#add-btn').click(function() {
+                var taskText = $('#task-input').val().trim();
+                if (taskText !== '') {
+                    $('#todo-list').append(`<li class="task">${taskText} <button class="done-btn">Mark as Done</button> <button class="remove-btn">Remove</button></li>`);
+                    $('#task-input').val(''); // Clear input field
+                }
+            });
+
+            // Mark task as done
+            $(document).on('click', '.done-btn', function() {
+                $(this).parent().toggleClass('done');
+            });
+
+            // Remove task
+            $(document).on('click', '.remove-btn', function() {
+                $(this).parent().remove();
+            });
+        });
+    </script>
+
+    <style>
+        .done {
+            text-decoration: line-through;
+            color: gray;
+        }
+    </style>
+
+</body>
+</html>
