@@ -1,4 +1,4 @@
-1. Write a Python, C/C++ and Java programs and check whether it is a prime number of not.
+1. Write a Python, C/C++ and Java programs to check whether a given (as a standard input) number is a prime number or not.
 
 Remark 1: There are some algorithms which can simplify this task, like Miller–Rabin. Please, do not use them. The goal is to compare the code from different programming paradigms.
 
