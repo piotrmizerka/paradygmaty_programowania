@@ -1,0 +1,3 @@
+Wykorzystując paradygmat programowania obiektowego, napisz w Javie kod imimutjący (w prosty sposób) działanie USOSa. 
+
+Wymagane klasy (nieabstrakcyjne): administrator, student, nauczyciel, kurs. Student powinien móc wyświetlać swój plan zajęć, administrator tworzyć kursy, dodawać studentów i nauczycieli do nich i usuwać studentów z listy studentów, natomiast nauczyciel może wpisać ocenę studentowi w ramach danego kursu oraz wyświetlać swój plan zajęć. Dodatkowo wymagane jest użycie interfejsu i klasy abstrakcyjnej. W części głównej (main) zademonstruj działanie programu - można wpisać odp. metody na sztywno w kodzie - nie musimy się już przejmować obsługa wejście i wyjścia.
