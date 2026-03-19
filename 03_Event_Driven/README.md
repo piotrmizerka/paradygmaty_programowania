@@ -1,7 +1,7 @@
 ## Event-driven programming
 
 ### 1. 
-Write jQuery parser for the entries on arxiv (title, authors, abstract, journal, submission date) for any given paper, e.g. https://arxiv.org/abs/2403.13859
+Write jQuery parser for the entries on arxiv (title, authors, abstract, submission date) for any given paper, e.g. https://arxiv.org/abs/2403.13859
 
 Remarks/hints:
 
