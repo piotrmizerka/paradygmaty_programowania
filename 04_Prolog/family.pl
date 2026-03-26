@@ -53,7 +53,7 @@ ancestor(X,Y) :-
               ancestor(Z,Y).
               
 ancestor(X,Y) :-
-              X = Y.
+              parent(X,Y).
             
 
             
