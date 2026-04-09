@@ -15,4 +15,4 @@ The file has 4 columns: name, surname, pesel, parent's pesel
 6. The file roads.txt contain the roads in Poland: every road consists of cities separated by '-'. 
 If the road is long then it might take multiple lines, but any next road is separated at least by one empty line.
 
-Parse these roads to a suitable Prolog facts and then find all paths between Szczecin and Przemyśl.
+Parse these roads to a suitable Prolog facts and then find a path between Szczecin and Przemyśl of length at most 20.
