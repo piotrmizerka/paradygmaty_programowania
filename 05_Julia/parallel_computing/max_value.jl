@@ -23,10 +23,12 @@ end
 # --- wersja równoległa ---
 function max_parallel(a)
     # TODO
+    
 end
 
 function heavy_parallel(a)
     # TODO
+    
 end
 
 a = rand(10^8)
@@ -46,3 +48,5 @@ end
 @time begin
     @info "heavy, parallel", heavy_parallel(b)
 end
+
+julia -t
