@@ -1,8 +1,8 @@
 -- Lists.hs
 -- Zadanie 1: squareList i filterEven na listach Int
 -- Aby uruchomić w GHCi:
---   Prelude> :load Lists.hs
---   Prelude> main
+--   ghci> :load Lists.hs
+--   ghci> main
 
 module Lists where
 
